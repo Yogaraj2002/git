@@ -1,2 +1,4 @@
 console.log("Hello, I'm Yogaraj.");
-console.log('new');
+for(var i=0; i<5; i++){
+    console.log("Code");
+}
